@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Lekton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lekton'), local('Lekton-Regular'), url(http://fonts.gstatic.com/s/lekton/v7/GY6PlTlcpI9OWorXeq8Mhg.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lekton/v7/Gv78TXgMRvGbTrqT_eA_TQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lekton';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lekton-Bold'), url(http://fonts.gstatic.com/s/lekton/v7/sElR8eSezhQZgOuqD3W75VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lekton/v7/sElR8eSezhQZgOuqD3W75T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
